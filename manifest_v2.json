@@ -27,10 +27,14 @@
   ],
   "downloads": {
     "xmb9p": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "file_name": "downloads/io.github.o_o1112.bandbrowser.release.rpk",
-      "versionCode": 1,
+      "versionCode": 2,
       "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "v1.0.1\n- 新增「书签与离线页」首页管理模式：点击区块右上角「管理」即可直接删除任意书签与离线缓存\n- 修复清空默认书签后自动恢复的问题，取消收藏时同步清理对应离线缓存页\n- 阅读页底部「收藏 / ★ 已藏」状态实时同步，右上菜单新增「删除书签与离线页」入口"
+        },
         {
           "version": "1.0.0",
           "content": "v1.0.0 首发版本\n- 全新《流沙浏览器》上线，采用小米手环 9 Pro 原生深色无源流沙阅读界面\n- 支持输入网址与关键词直达，内置全拼输入法键盘与 Bing / DuckDuckGo 轻量化搜索\n- 配合 AstroBox 同步插件实现实时网页正文抽取、HTML/Atom 超链接多级跳页、历史前进后退与本地离线收藏"
