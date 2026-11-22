@@ -38,5 +38,14 @@
       ]
     }
   },
-  "ext": {}
+  "ext": {
+    "bundledResources": {
+      "required": [
+        {
+          "type": "plugin",
+          "id": "流沙浏览器同步插件"
+        }
+      ]
+    }
+  }
 }
