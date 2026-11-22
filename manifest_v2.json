@@ -1,0 +1,30 @@
+{
+  "item": {
+    "id": "io.github.o_o1112.bandbrowser",
+    "restype": "quick_app",
+    "name": "流沙浏览器",
+    "description": "小米手环 9 Pro 轻量通用网页浏览器，支持正文重排、搜索直达与超链接逐层阅读。",
+    "preview": [
+      "media/astrobox_preview_1.png",
+      "media/astrobox_preview_2.png",
+      "media/astrobox_preview_3.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/astrobox_cover.png",
+    "author": [
+      {
+        "name": "bandbbs_1803777",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/io.github.o_o1112.bandbrowser.release.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
