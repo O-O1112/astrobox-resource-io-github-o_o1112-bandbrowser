@@ -3,7 +3,7 @@
     "id": "io.github.o_o1112.bandbrowser",
     "restype": "quick_app",
     "name": "流沙浏览器",
-    "description": "运行在小米手环 9 Pro 上的网页浏览器与阅读器，搭配 AstroBox 同步插件使用，不需额外开启电脑服务端即可读取网页内容。\n\n主要功能\n- 网页正文重排：提取网页标题、正文与 RSS/Atom 列表并分段显示，小屏也能顺畅翻页阅读\n- 页面内超链接跳转：点击文中链接可继续进入下一层页面，底部支持后退与前进历史记录\n- 网址与搜索直达：内置全拼按键键盘与光标微调，支持域名自动补全及必应 / DuckDuckGo 关键词搜索\n- 书签与离线保存：阅读时一键收藏网页并缓存在本地，断网时也能重新打开看\n\n使用前准备\n1. 安装手环端快应用 `流沙浏览器`\n2. 在 AstroBox 左侧「外挂程式 / 插件商店」搜索并安装启用 **`Band Browser Sync`（流沙浏览器同步插件）**，按提示授予 `network` 与 `interconnect` 权限\n3. 保持手环与 AstroBox 蓝牙连接，在手环打开流沙浏览器即可开始浏览（或从 `https://github.com/O-O1112/band-browser/releases` 获取离线 `.abp` 包导入）",
+    "description": "运行在小米手环 9 Pro 上的网页浏览器与阅读器，搭配 AstroBox 同步插件使用，不需额外开启电脑服务端即可读取网页内容。\n\n主要功能\n- 网页正文重排：提取网页标题、正文与 RSS/Atom 列表并分段显示，小屏也能顺畅翻页阅读\n- 页面内超链接跳转：点击文中链接可继续进入下一层页面，底部支持后退与前进历史记录\n- 网址与搜索直达：内置全拼按键键盘与光标微调，支持域名自动补全及必应 / DuckDuckGo 关键词搜索\n- 书签与离线保存：阅读时一键收藏网页并缓存在本地，断网时也能重新打开看\n\n使用前准备\n1. 安装手环端快应用 `流沙浏览器`\n2. 在 AstroBox 启用已绑定的配套插件《流沙浏览器同步插件》，按提示授予 `network` 与 `interconnect` 权限\n3. 保持手环与 AstroBox 蓝牙连接，在手环打开流沙浏览器即可开始浏览",
     "preview": [
       "media/astrobox_preview_1.png",
       "media/astrobox_preview_2.png",
@@ -18,7 +18,13 @@
       }
     ]
   },
-  "links": [],
+  "links": [
+    {
+      "title": "流沙浏览器同步插件",
+      "url": "https://github.com/O-O1112/band-browser",
+      "icon": "github-logo"
+    }
+  ],
   "downloads": {
     "xmb9p": {
       "version": "1.0.0",
