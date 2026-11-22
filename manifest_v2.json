@@ -23,7 +23,13 @@
     "xmb9p": {
       "version": "1.0.0",
       "file_name": "downloads/io.github.o_o1112.bandbrowser.release.rpk",
-      "versionCode": 1
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "v1.0.0 首发版本\n- 全新《流沙浏览器》上线，采用小米手环 9 Pro 原生深色无源流沙阅读界面\n- 支持输入网址与关键词直达，内置全拼输入法键盘与 Bing / DuckDuckGo 轻量化搜索\n- 配合 AstroBox 同步插件实现实时网页正文抽取、HTML/Atom 超链接多级跳页、历史前进后退与本地离线收藏"
+        }
+      ]
     }
   },
   "ext": {}
