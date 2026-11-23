@@ -5,6 +5,8 @@
     "name": "流沙浏览器",
     "description": "运行在小米手环 9 Pro 上的网页浏览器与阅读器，搭配 AstroBox 同步插件使用，不需额外开启电脑服务端即可读取网页内容。\n\n主要功能\n- 网页正文重排：提取网页标题、正文与 RSS/Atom 列表并分段显示，小屏也能顺畅翻页阅读\n- 页面内超链接跳转：点击文中链接可继续进入下一层页面，底部支持后退与前进历史记录\n- 网址与搜索直达：内置全拼按键键盘与光标微调，支持域名自动补全及必应 / DuckDuckGo 关键词搜索\n- 书签与离线保存：阅读时一键收藏网页并缓存在本地，断网时也能重新打开看\n\n使用前准备\n1. 安装手环端快应用 `流沙浏览器`\n2. 在 AstroBox 启用已绑定的配套插件《流沙浏览器同步插件》，按提示授予 `network` 与 `interconnect` 权限\n3. 保持手环与 AstroBox 蓝牙连接，在手环打开流沙浏览器即可开始浏览",
     "preview": [
+      "media/astrobox_cover.png",
+      "media/astrobox_preview.png",
       "media/astrobox_preview_1.png",
       "media/astrobox_preview_2.png",
       "media/astrobox_preview_3.png"
@@ -27,10 +29,14 @@
   ],
   "downloads": {
     "xmb9p": {
-      "version": "1.0.1",
+      "version": "1.0.2",
       "file_name": "downloads/io.github.o_o1112.bandbrowser.release.rpk",
-      "versionCode": 2,
+      "versionCode": 3,
       "updatelogs": [
+        {
+          "version": "1.0.2",
+          "content": "v1.0.2（versionCode 3）多机型适配与轻量优化：\n1. 重构首页、阅读页、菜单遮罩与地址输入页的高度自适应布局（移除 480px 写死裁切，改为 100% 弹性贴底），适配 REDMI Watch 5 / eSIM 等更多比例屏幕的底部导航栏与输入区；\n2. 同步补充顶部时钟 onShow 刷新与阅读页字号/首页图标绑定瘦身，减少动态样式对象分配；\n3. 建议在控制台适配设备列表中同步勾选更多 Vela 手表/手环机型。"
+        },
         {
           "version": "1.0.1",
           "content": "v1.0.1\n- 新增「书签与离线页」首页管理模式：点击区块右上角「管理」即可直接删除任意书签与离线缓存\n- 修复清空默认书签后自动恢复的问题，取消收藏时同步清理对应离线缓存页\n- 阅读页底部「收藏 / ★ 已藏」状态实时同步，右上菜单新增「删除书签与离线页」入口"
