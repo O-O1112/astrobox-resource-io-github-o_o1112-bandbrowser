@@ -28,11 +28,114 @@
     }
   ],
   "downloads": {
-    "xmb9p": {
-      "version": "1.0.2",
-      "file_name": "downloads/io.github.o_o1112.bandbrowser.release.rpk",
-      "versionCode": 3,
+    "xmrw5": {
+      "version": "1.0.3",
+      "file_name": "downloads/4_RedmiWatch4-5_v1.0.3_plugin__bandbrowser.rpk",
+      "versionCode": 4,
       "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "v1.0.3（versionCode 4）全系列适配与 Band 10 Pro 原生 Fetch 版上线：\n1. 新增小米手环 10 Pro 专属包（band10pro-fetch）：采用 Vela 原生 @system.fetch 直接发起 HTTP/HTTPS 请求并自动跟随跳转，摆脱蓝牙转发插件依赖，并新增 10 Pro 网络探活检测；\n2. 新增 Xiaomi Smart Band 9 / 10 / 11 跑道屏（212 宽）、REDMI Watch 4 / 5 / 5 eSIM（432 宽）与 Xiaomi Watch S3 / S4 / S4 eSIM 圆表（466 宽，重构全屏拼音键盘居中布局）专属分包；\n3. 小米手环 9 Pro 保持 v1.0.2 稳定版原包不变，确保已绑定插件与蓝牙通信行为完全稳定。"
+        }
+      ]
+    },
+    "xmrw5xring": {
+      "version": "1.0.3",
+      "file_name": "downloads/4_RedmiWatch4-5_v1.0.3_plugin__bandbrowser.rpk",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "v1.0.3（versionCode 4）全系列适配与 Band 10 Pro 原生 Fetch 版上线：\n1. 新增小米手环 10 Pro 专属包（band10pro-fetch）：采用 Vela 原生 @system.fetch 直接发起 HTTP/HTTPS 请求并自动跟随跳转，摆脱蓝牙转发插件依赖，并新增 10 Pro 网络探活检测；\n2. 新增 Xiaomi Smart Band 9 / 10 / 11 跑道屏（212 宽）、REDMI Watch 4 / 5 / 5 eSIM（432 宽）与 Xiaomi Watch S3 / S4 / S4 eSIM 圆表（466 宽，重构全屏拼音键盘居中布局）专属分包；\n3. 小米手环 9 Pro 保持 v1.0.2 稳定版原包不变，确保已绑定插件与蓝牙通信行为完全稳定。"
+        }
+      ]
+    },
+    "xmrw6": {
+      "version": "1.0.3",
+      "file_name": "downloads/4_RedmiWatch4-5_v1.0.3_plugin__bandbrowser.rpk",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "v1.0.3（versionCode 4）全系列适配与 Band 10 Pro 原生 Fetch 版上线：\n1. 新增小米手环 10 Pro 专属包（band10pro-fetch）：采用 Vela 原生 @system.fetch 直接发起 HTTP/HTTPS 请求并自动跟随跳转，摆脱蓝牙转发插件依赖，并新增 10 Pro 网络探活检测；\n2. 新增 Xiaomi Smart Band 9 / 10 / 11 跑道屏（212 宽）、REDMI Watch 4 / 5 / 5 eSIM（432 宽）与 Xiaomi Watch S3 / S4 / S4 eSIM 圆表（466 宽，重构全屏拼音键盘居中布局）专属分包；\n3. 小米手环 9 Pro 保持 v1.0.2 稳定版原包不变，确保已绑定插件与蓝牙通信行为完全稳定。"
+        }
+      ]
+    },
+    "xmb10": {
+      "version": "1.0.3",
+      "file_name": "downloads/3_Band9-10-11_v1.0.3_plugin__bandbrowser.rpk",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "v1.0.3（versionCode 4）全系列适配与 Band 10 Pro 原生 Fetch 版上线：\n1. 新增小米手环 10 Pro 专属包（band10pro-fetch）：采用 Vela 原生 @system.fetch 直接发起 HTTP/HTTPS 请求并自动跟随跳转，摆脱蓝牙转发插件依赖，并新增 10 Pro 网络探活检测；\n2. 新增 Xiaomi Smart Band 9 / 10 / 11 跑道屏（212 宽）、REDMI Watch 4 / 5 / 5 eSIM（432 宽）与 Xiaomi Watch S3 / S4 / S4 eSIM 圆表（466 宽，重构全屏拼音键盘居中布局）专属分包；\n3. 小米手环 9 Pro 保持 v1.0.2 稳定版原包不变，确保已绑定插件与蓝牙通信行为完全稳定。"
+        }
+      ]
+    },
+    "xmb10nfc": {
+      "version": "1.0.3",
+      "file_name": "downloads/3_Band9-10-11_v1.0.3_plugin__bandbrowser.rpk",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "v1.0.3（versionCode 4）全系列适配与 Band 10 Pro 原生 Fetch 版上线：\n1. 新增小米手环 10 Pro 专属包（band10pro-fetch）：采用 Vela 原生 @system.fetch 直接发起 HTTP/HTTPS 请求并自动跟随跳转，摆脱蓝牙转发插件依赖，并新增 10 Pro 网络探活检测；\n2. 新增 Xiaomi Smart Band 9 / 10 / 11 跑道屏（212 宽）、REDMI Watch 4 / 5 / 5 eSIM（432 宽）与 Xiaomi Watch S3 / S4 / S4 eSIM 圆表（466 宽，重构全屏拼音键盘居中布局）专属分包；\n3. 小米手环 9 Pro 保持 v1.0.2 稳定版原包不变，确保已绑定插件与蓝牙通信行为完全稳定。"
+        }
+      ]
+    },
+    "xmb10p": {
+      "version": "1.0.3",
+      "file_name": "downloads/2_Band10Pro_ONLY_v1.0.3_NO-PLUGIN__bandbrowser.rpk",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "v1.0.3（versionCode 4）全系列适配与 Band 10 Pro 原生 Fetch 版上线：\n1. 新增小米手环 10 Pro 专属包（band10pro-fetch）：采用 Vela 原生 @system.fetch 直接发起 HTTP/HTTPS 请求并自动跟随跳转，摆脱蓝牙转发插件依赖，并新增 10 Pro 网络探活检测；\n2. 新增 Xiaomi Smart Band 9 / 10 / 11 跑道屏（212 宽）、REDMI Watch 4 / 5 / 5 eSIM（432 宽）与 Xiaomi Watch S3 / S4 / S4 eSIM 圆表（466 宽，重构全屏拼音键盘居中布局）专属分包；\n3. 小米手环 9 Pro 保持 v1.0.2 稳定版原包不变，确保已绑定插件与蓝牙通信行为完全稳定。"
+        }
+      ]
+    },
+    "xmb11": {
+      "version": "1.0.3",
+      "file_name": "downloads/3_Band9-10-11_v1.0.3_plugin__bandbrowser.rpk",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "v1.0.3（versionCode 4）全系列适配与 Band 10 Pro 原生 Fetch 版上线：\n1. 新增小米手环 10 Pro 专属包（band10pro-fetch）：采用 Vela 原生 @system.fetch 直接发起 HTTP/HTTPS 请求并自动跟随跳转，摆脱蓝牙转发插件依赖，并新增 10 Pro 网络探活检测；\n2. 新增 Xiaomi Smart Band 9 / 10 / 11 跑道屏（212 宽）、REDMI Watch 4 / 5 / 5 eSIM（432 宽）与 Xiaomi Watch S3 / S4 / S4 eSIM 圆表（466 宽，重构全屏拼音键盘居中布局）专属分包；\n3. 小米手环 9 Pro 保持 v1.0.2 稳定版原包不变，确保已绑定插件与蓝牙通信行为完全稳定。"
+        }
+      ]
+    },
+    "xmb11nfc": {
+      "version": "1.0.3",
+      "file_name": "downloads/3_Band9-10-11_v1.0.3_plugin__bandbrowser.rpk",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "v1.0.3（versionCode 4）全系列适配与 Band 10 Pro 原生 Fetch 版上线：\n1. 新增小米手环 10 Pro 专属包（band10pro-fetch）：采用 Vela 原生 @system.fetch 直接发起 HTTP/HTTPS 请求并自动跟随跳转，摆脱蓝牙转发插件依赖，并新增 10 Pro 网络探活检测；\n2. 新增 Xiaomi Smart Band 9 / 10 / 11 跑道屏（212 宽）、REDMI Watch 4 / 5 / 5 eSIM（432 宽）与 Xiaomi Watch S3 / S4 / S4 eSIM 圆表（466 宽，重构全屏拼音键盘居中布局）专属分包；\n3. 小米手环 9 Pro 保持 v1.0.2 稳定版原包不变，确保已绑定插件与蓝牙通信行为完全稳定。"
+        }
+      ]
+    },
+    "xmb9": {
+      "version": "1.0.3",
+      "file_name": "downloads/3_Band9-10-11_v1.0.3_plugin__bandbrowser.rpk",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "v1.0.3（versionCode 4）全系列适配与 Band 10 Pro 原生 Fetch 版上线：\n1. 新增小米手环 10 Pro 专属包（band10pro-fetch）：采用 Vela 原生 @system.fetch 直接发起 HTTP/HTTPS 请求并自动跟随跳转，摆脱蓝牙转发插件依赖，并新增 10 Pro 网络探活检测；\n2. 新增 Xiaomi Smart Band 9 / 10 / 11 跑道屏（212 宽）、REDMI Watch 4 / 5 / 5 eSIM（432 宽）与 Xiaomi Watch S3 / S4 / S4 eSIM 圆表（466 宽，重构全屏拼音键盘居中布局）专属分包；\n3. 小米手环 9 Pro 保持 v1.0.2 稳定版原包不变，确保已绑定插件与蓝牙通信行为完全稳定。"
+        }
+      ]
+    },
+    "xmb9p": {
+      "version": "1.0.3",
+      "file_name": "downloads/1_Band9Pro-8Pro_v1.0.3_plugin__bandbrowser.rpk",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "v1.0.3（versionCode 4）全系列适配与 Band 10 Pro 原生 Fetch 版上线：\n1. 新增小米手环 10 Pro 专属包（band10pro-fetch）：采用 Vela 原生 @system.fetch 直接发起 HTTP/HTTPS 请求并自动跟随跳转，摆脱蓝牙转发插件依赖，并新增 10 Pro 网络探活检测；\n2. 新增 Xiaomi Smart Band 9 / 10 / 11 跑道屏（212 宽）、REDMI Watch 4 / 5 / 5 eSIM（432 宽）与 Xiaomi Watch S3 / S4 / S4 eSIM 圆表（466 宽，重构全屏拼音键盘居中布局）专属分包；\n3. 小米手环 9 Pro 保持 v1.0.2 稳定版原包不变，确保已绑定插件与蓝牙通信行为完全稳定。"
+        },
         {
           "version": "1.0.2",
           "content": "v1.0.2（versionCode 3）多机型适配与轻量优化：\n1. 重构首页、阅读页、菜单遮罩与地址输入页的高度自适应布局（移除 480px 写死裁切，改为 100% 弹性贴底），适配 REDMI Watch 5 / eSIM 等更多比例屏幕的底部导航栏与输入区；\n2. 同步补充顶部时钟 onShow 刷新与阅读页字号/首页图标绑定瘦身，减少动态样式对象分配；\n3. 建议在控制台适配设备列表中同步勾选更多 Vela 手表/手环机型。"
@@ -44,6 +147,72 @@
         {
           "version": "1.0.0",
           "content": "v1.0.0 首发版本\n- 全新《流沙浏览器》上线，采用小米手环 9 Pro 原生深色无源流沙阅读界面\n- 支持输入网址与关键词直达，内置全拼输入法键盘与 Bing / DuckDuckGo 轻量化搜索\n- 配合 AstroBox 同步插件实现实时网页正文抽取、HTML/Atom 超链接多级跳页、历史前进后退与本地离线收藏"
+        }
+      ]
+    },
+    "xmws3": {
+      "version": "1.0.3",
+      "file_name": "downloads/5_WatchS3-S4_v1.0.3_plugin__bandbrowser.rpk",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "v1.0.3（versionCode 4）全系列适配与 Band 10 Pro 原生 Fetch 版上线：\n1. 新增小米手环 10 Pro 专属包（band10pro-fetch）：采用 Vela 原生 @system.fetch 直接发起 HTTP/HTTPS 请求并自动跟随跳转，摆脱蓝牙转发插件依赖，并新增 10 Pro 网络探活检测；\n2. 新增 Xiaomi Smart Band 9 / 10 / 11 跑道屏（212 宽）、REDMI Watch 4 / 5 / 5 eSIM（432 宽）与 Xiaomi Watch S3 / S4 / S4 eSIM 圆表（466 宽，重构全屏拼音键盘居中布局）专属分包；\n3. 小米手环 9 Pro 保持 v1.0.2 稳定版原包不变，确保已绑定插件与蓝牙通信行为完全稳定。"
+        }
+      ]
+    },
+    "xmws4xring": {
+      "version": "1.0.3",
+      "file_name": "downloads/5_WatchS3-S4_v1.0.3_plugin__bandbrowser.rpk",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "v1.0.3（versionCode 4）全系列适配与 Band 10 Pro 原生 Fetch 版上线：\n1. 新增小米手环 10 Pro 专属包（band10pro-fetch）：采用 Vela 原生 @system.fetch 直接发起 HTTP/HTTPS 请求并自动跟随跳转，摆脱蓝牙转发插件依赖，并新增 10 Pro 网络探活检测；\n2. 新增 Xiaomi Smart Band 9 / 10 / 11 跑道屏（212 宽）、REDMI Watch 4 / 5 / 5 eSIM（432 宽）与 Xiaomi Watch S3 / S4 / S4 eSIM 圆表（466 宽，重构全屏拼音键盘居中布局）专属分包；\n3. 小米手环 9 Pro 保持 v1.0.2 稳定版原包不变，确保已绑定插件与蓝牙通信行为完全稳定。"
+        }
+      ]
+    },
+    "xmws441": {
+      "version": "1.0.3",
+      "file_name": "downloads/5_WatchS3-S4_v1.0.3_plugin__bandbrowser.rpk",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "v1.0.3（versionCode 4）全系列适配与 Band 10 Pro 原生 Fetch 版上线：\n1. 新增小米手环 10 Pro 专属包（band10pro-fetch）：采用 Vela 原生 @system.fetch 直接发起 HTTP/HTTPS 请求并自动跟随跳转，摆脱蓝牙转发插件依赖，并新增 10 Pro 网络探活检测；\n2. 新增 Xiaomi Smart Band 9 / 10 / 11 跑道屏（212 宽）、REDMI Watch 4 / 5 / 5 eSIM（432 宽）与 Xiaomi Watch S3 / S4 / S4 eSIM 圆表（466 宽，重构全屏拼音键盘居中布局）专属分包；\n3. 小米手环 9 Pro 保持 v1.0.2 稳定版原包不变，确保已绑定插件与蓝牙通信行为完全稳定。"
+        }
+      ]
+    },
+    "xmws4": {
+      "version": "1.0.3",
+      "file_name": "downloads/5_WatchS3-S4_v1.0.3_plugin__bandbrowser.rpk",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "v1.0.3（versionCode 4）全系列适配与 Band 10 Pro 原生 Fetch 版上线：\n1. 新增小米手环 10 Pro 专属包（band10pro-fetch）：采用 Vela 原生 @system.fetch 直接发起 HTTP/HTTPS 请求并自动跟随跳转，摆脱蓝牙转发插件依赖，并新增 10 Pro 网络探活检测；\n2. 新增 Xiaomi Smart Band 9 / 10 / 11 跑道屏（212 宽）、REDMI Watch 4 / 5 / 5 eSIM（432 宽）与 Xiaomi Watch S3 / S4 / S4 eSIM 圆表（466 宽，重构全屏拼音键盘居中布局）专属分包；\n3. 小米手环 9 Pro 保持 v1.0.2 稳定版原包不变，确保已绑定插件与蓝牙通信行为完全稳定。"
+        }
+      ]
+    },
+    "xmws541": {
+      "version": "1.0.3",
+      "file_name": "downloads/5_WatchS3-S4_v1.0.3_plugin__bandbrowser.rpk",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "v1.0.3（versionCode 4）全系列适配与 Band 10 Pro 原生 Fetch 版上线：\n1. 新增小米手环 10 Pro 专属包（band10pro-fetch）：采用 Vela 原生 @system.fetch 直接发起 HTTP/HTTPS 请求并自动跟随跳转，摆脱蓝牙转发插件依赖，并新增 10 Pro 网络探活检测；\n2. 新增 Xiaomi Smart Band 9 / 10 / 11 跑道屏（212 宽）、REDMI Watch 4 / 5 / 5 eSIM（432 宽）与 Xiaomi Watch S3 / S4 / S4 eSIM 圆表（466 宽，重构全屏拼音键盘居中布局）专属分包；\n3. 小米手环 9 Pro 保持 v1.0.2 稳定版原包不变，确保已绑定插件与蓝牙通信行为完全稳定。v1.0.3（versionCode 4）全系列适配与 Band 10 Pro 原生 Fetch 版上线：\n1. 新增小米手环 10 Pro 专属包（band10pro-fetch）：采用 Vela 原生 @system.fetch 直接发起 HTTP/HTTPS 请求并自动跟随跳转，摆脱蓝牙转发插件依赖，并新增 10 Pro 网络探活检测；\n2. 新增 Xiaomi Smart Band 9 / 10 / 11 跑道屏（212 宽）、REDMI Watch 4 / 5 / 5 eSIM（432 宽）与 Xiaomi Watch S3 / S4 / S4 eSIM 圆表（466 宽，重构全屏拼音键盘居中布局）专属分包；\n3. 小米手环 9 Pro 保持 v1.0.2 稳定版原包不变，确保已绑定插件与蓝牙通信行为完全稳定。"
+        }
+      ]
+    },
+    "xmws5": {
+      "version": "1.0.3",
+      "file_name": "downloads/5_WatchS3-S4_v1.0.3_plugin__bandbrowser.rpk",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "v1.0.3（versionCode 4）全系列适配与 Band 10 Pro 原生 Fetch 版上线：\n1. 新增小米手环 10 Pro 专属包（band10pro-fetch）：采用 Vela 原生 @system.fetch 直接发起 HTTP/HTTPS 请求并自动跟随跳转，摆脱蓝牙转发插件依赖，并新增 10 Pro 网络探活检测；\n2. 新增 Xiaomi Smart Band 9 / 10 / 11 跑道屏（212 宽）、REDMI Watch 4 / 5 / 5 eSIM（432 宽）与 Xiaomi Watch S3 / S4 / S4 eSIM 圆表（466 宽，重构全屏拼音键盘居中布局）专属分包；\n3. 小米手环 9 Pro 保持 v1.0.2 稳定版原包不变，确保已绑定插件与蓝牙通信行为完全稳定。"
         }
       ]
     }
