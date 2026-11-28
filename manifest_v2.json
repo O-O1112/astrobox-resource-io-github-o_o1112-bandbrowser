@@ -5,14 +5,14 @@
     "name": "流沙浏览器",
     "description": "运行在小米手环与小米／红米手表上的轻量网页浏览器与长文阅读器。小米手环 10 Pro 使用原生 Fetch 直连版免配插件；其余穿戴机型搭配《流沙浏览器同步插件》（向下兼容现有 Band-Browser-1.0.0.abp）即可畅游网页。\n\n主要功能\n- 10 Pro 免插件直连 / 插件兼容：10 Pro 内置原生 @system.fetch，其余 4 包通过 AstroBox 插件稳定转发\n- 三套阅读主题与偏好记忆：菜单支持「暗黑 / 暖纸（护眼）/ 浅色」三主题切换，自动记忆字号、主题与搜索引擎\n- 阅读进度与正文重排：标题卡显示预计阅读分钟数与字数，「加载下一段」实时显示百分比，支持 HTML 实体解析与噪声过滤\n- 首页「最近浏览」与快捷输入：自动记录最近访问网页并支持一键清空；网址框新增 .com / .cn / .org / / 快捷胶囊及必应 / 百度 / DDG 三引擎切换\n- 透明底圆形罗盘图标：Pro/手表采用 192×192 正圆、跑道屏采用 100×100 正圆",
     "preview": [
-      "media/astrobox_cover.png",
+      "media/astrobox_cover.jpg",
       "media/astrobox_preview.png",
       "media/astrobox_preview_1.png",
-      "media/astrobox_preview_2.png",
+      "media/astrobox_preview_2.jpg",
       "media/astrobox_preview_3.png"
     ],
     "icon": "media/logo_192x192_circle.png",
-    "cover": "media/astrobox_cover.png",
+    "cover": "media/astrobox_cover.jpg",
     "author": [
       {
         "name": "bandbbs_1803777",
